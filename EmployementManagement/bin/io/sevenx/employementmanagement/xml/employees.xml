@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="UTF-8"  standalone="yes"?>
+<employees>
+	<employee>
+	    <firstName>Neelam</firstName>
+	    <employeeId>1</employeeId>
+		<lastName>Vijay</lastName>
+	    <email>nlmvijay7@gmail.com</email>
+		<baseSalary>12500</baseSalary>
+	</employee>
+
+	<employee>
+	    <firstName>Naitik</firstName>
+	    <employeeId>2</employeeId>
+		<lastName>Vijay</lastName>
+	    <email>naitik@gmail.com</email>
+		<baseSalary>12500</baseSalary>
+	</employee>
+</employees>
